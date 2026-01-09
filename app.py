@@ -74,12 +74,15 @@ def generate_email_html(
                 </table>
 
                 <p style="margin-top:25px;font-weight:bold">
-                  James<br/>
-                  Sales Director<br/>
+                  Best Regards<br/>
+                  Customer Success Team<br/>
+                  (+44) 2034517166<br/>
                   3–4 March 2026 | London Olympia<br/>
+                  On Behalf of<br/>
+                  James<br/>
+                  Show Director<br/>
                   <a href="mailto:james@businessrevivalseries.uk"
                      style="color:#D7262F">james@businessrevivalseries.uk</a><br/>
-                  (+44) 2034517166
                 </p>
 
                 <p style="font-size:11px;color:#888;margin-top:30px">
