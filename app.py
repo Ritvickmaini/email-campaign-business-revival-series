@@ -79,6 +79,7 @@ def generate_email_html(
                   (+44) 2034517166<br/>
                   3–4 March 2026 | London Olympia<br/>
                   On Behalf of<br/>
+                  </br>
                   James<br/>
                   Show Director<br/>
                   <a href="mailto:james@businessrevivalseries.uk"
